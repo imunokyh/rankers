@@ -1,9 +1,9 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/imunokyh/rankers.git
-[submodule "front"]
-	path = front
-	url = https://github.com/imunokyh/rankers-front.git
 [submodule "back"]
 	path = back
 	url = https://github.com/DDnK-dev/rankers-back.git
+[submodule "front"]
+	path = front
+	url = https://github.com/imunokyh/rankers-front.git
